@@ -7,8 +7,11 @@
 
 # DATA SETS
 community-matrix-presenceabsence.csv: Appalachians small mammal community (site x species) matrix
+
 community-matrix-abundances.csv: as above, but for sites with available small mammal abundance data
+
 craniodental-traits.csv: individual craniodental measurements, with museum specimen catalog numbers where possible
+
 gastrointestinal-traits.csv: individual gastrointestinal tract measurements, with museum specimen catalog numbers where possible
 
 # R CODE
